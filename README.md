@@ -1,2 +1,17 @@
-# RealismInVue
-Official open source version of the critically acclaimed book, "Realism in Vue"
+# Open Source Version
+
+This version of the book has been open sourced to provide educational purposes by the author. This book was published nearly a decade ago, so please keep in mind that the software Vue has changed in many ways, and certain obsolete methodology may not apply. However, the core concepts should still hold true.
+
+NOTE: This book is provided "as-is" without technical support.
+
+
+
+# Realism in Vue
+
+Realism in Vue takes a fundamental look at how nature works and interprets those rules into the Vue paradigm. Covering the core pillars of nature found in Vue – Atmosphere, EcoSystem, HyperTerrain, Material, and Terrain – this approach will dramatically increase your practical knowledge of and confidence in the technology. Dax reveals new techniques and also upgraded versions of existing techniques that continue to empower professional Hollywood artists. The unique chapter on Perception and its vital role will give your renders that often elusive ‘something special’.
+
+Based on real production scenarios, Realism in Vue places great emphasis on achieving superior realism within budget and time constraints. All examples shown throughout the book are taken from actual projects. A special section is dedicated to developing custom render settings for significantly faster renders.
+
+Additionally, the book is version agnostic – apart from a few features specific to certain versions of Vue, almost all techniques can be applied universally to most editions of Vue.
+
+Realism in Vue contains hundreds of full color renders and is printed on glossy paper with a rigid paper cover. Order your copy now so you can take your work to a completely new level.
