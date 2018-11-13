@@ -7,10 +7,8 @@ NOTE: This book is provided "as-is" without technical support.
 The original print edition was published by E-on Software.
 
 > *"It didn't take long to realize that the best guy on the planet is Dax Pandhi. his understanding of real world environments and terrains blow the doors off of anyone I've ever seen. The guy is simply amazing. He is a weapons grade talent."*
-
-**Doug Drexler**
-
-VES, Emmy, and Academy winning artist (*Battlestar Galactica, Star Trek: The Next Generation, Star Trek: Deep Space Nine*)
+>
+> **Doug Drexler** VES, Emmy, and Academy winning artist (*Battlestar Galactica, Star Trek: The Next Generation, Star Trek: Deep Space Nine*)
 
 ![Front Cover](images/front.jpg)
 ![Back Cover](images/back.jpg)
