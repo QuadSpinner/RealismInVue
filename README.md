@@ -1,10 +1,17 @@
-# Open Source Version
+# Realism in Vue: Open Sourced for the Community
 
-This version of the book has been open sourced to provide educational purposes by the author. This book was published nearly a decade ago, so please keep in mind that the software Vue has changed in many ways, and certain obsolete methodology may not apply. However, the core concepts should still hold true.
+This version of the book has been open sourced to provide educational purposes by the author. This book was published nearly a decade ago, so please keep in mind that the software Vue has changed in some ways, and certain obsolete methodology may not apply. However, the core concepts still hold true.
 
 NOTE: This book is provided "as-is" without technical support.
 
+> *"It didn't take long to realize that the best guy on the planet is Dax Pandhi. his understanding of real world environments and terrains blow the doors off of anyone I've ever seen. The guy is simply amazing. He is a weapons grade talent."*
 
+**Doug Drexler**
+
+VES, Emmy, and Academy winning artist (*Battlestar Galactica, Star Trek: The Next Generation, Star Trek: Deep Space Nine*)
+
+![Front Cover](images/front.jpg)
+![Back Cover](images/back.jpg)
 
 # Realism in Vue
 
