@@ -4,6 +4,8 @@ This version of the book has been open sourced to provide educational purposes b
 
 NOTE: This book is provided "as-is" without technical support.
 
+The original print edition was published by E-on Software.
+
 > *"It didn't take long to realize that the best guy on the planet is Dax Pandhi. his understanding of real world environments and terrains blow the doors off of anyone I've ever seen. The guy is simply amazing. He is a weapons grade talent."*
 
 **Doug Drexler**
